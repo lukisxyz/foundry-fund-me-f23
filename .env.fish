@@ -1,0 +1,2 @@
+alias gc 'cz'
+
