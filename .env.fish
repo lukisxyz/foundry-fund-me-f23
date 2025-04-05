@@ -1,2 +1,1 @@
-alias gc 'cz'
-
+alias 'git commit'='cz'
